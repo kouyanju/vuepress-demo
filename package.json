@@ -1,0 +1,24 @@
+{
+  "name": "vuepress-demo",
+  "version": "1.0.0",
+  "description": "案例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kouyanju/vuepress-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kouyanju/vuepress-demo/issues"
+  },
+  "homepage": "https://github.com/kouyanju/vuepress-demo#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
